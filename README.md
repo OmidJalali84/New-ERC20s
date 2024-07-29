@@ -1,3 +1,25 @@
+- [Chart](#chart)
+- [KAMALA HARRIS](#kamala-harris)
+  - [About](#about)
+  - [Functionality Detail](#functionality-detail)
+    - [Bot Blocking](#bot-blocking)
+    - [weird Transaction Fees And Owner Access](#weird-transaction-fees-and-owner-access)
+- [Gravity](#gravity)
+  - [About](#about-1)
+  - [Functionality Detail](#functionality-detail-1)
+    - [Pauseable](#pauseable)
+    - [Burnable](#burnable)
+    - [Name Changing](#name-changing)
+    - [Giving access to users for minting(by owner)](#giving-access-to-users-for-mintingby-owner)
+- [ZKLink](#zklink)
+  - [About](#about-2)
+  - [Functionality Details](#functionality-details)
+    - [Upgradeable](#upgradeable)
+    - [ERC20Capped](#erc20capped)
+    - [EIP-2612(ERC20Permit)](#eip-2612erc20permit)
+
+# Chart
+
 <table border="1" style="border-collapse: collapse;">
     <thead>
         <tr>
