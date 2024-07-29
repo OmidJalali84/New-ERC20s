@@ -35,7 +35,7 @@
             <td>
             <a href="https://etherscan.io/tx/0xf19d9535cefe1c5dae66d26c28a7bcfc1cdd09512b0d684832f2c8a01e40b62f"target="_blank">Apr-12-2024</a>
             </td>
-            <td><a href="#Upgradeable">Upgradeable</a>, <a href="#ERC20Capped">ERC20Capped</a>, <a href="#EIP-2612(ERC20Permit)">EIP-2612(ERC20-Permit)</a></td>
+            <td><a href="#Upgradeable">Upgradeable</a>, <a href="#ERC20Capped">ERC20Capped</a>, <a href="#EIP-2612ERC20Permit">EIP-2612(ERC20-Permit)</a></td>
         </tr>
     </tbody>
 </table>
