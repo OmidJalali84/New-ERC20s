@@ -23,7 +23,7 @@
          <tr>
             <td><a href="#Gravty" target="_blank">Gravity</a></td>
             <td><a href="https://etherscan.io/token/0x9C7BEBa8F6eF6643aBd725e45a4E8387eF260649" target="_blank">Gravity Browser</a></td>
-            <td><a href="hhttps://www.binance.com/en/trade/G_USDT?ref=40896146" target="_blank">Binance</a>, <a href="https://bingx.com/en-us/spot/GUSDT" target="_blank">BingX</a>, <a href="https://www.coinex.com/exchange/g-usdt" target="_blank">CoinEx</a> and...</td>
+            <td><a href="https://www.binance.com/en/trade/G_USDT?ref=40896146" target="_blank">Binance</a>, <a href="https://bingx.com/en-us/spot/GUSDT" target="_blank">BingX</a>, <a href="https://www.coinex.com/exchange/g-usdt" target="_blank">CoinEx</a> and...</td>
             <td>
             <a href="https://etherscan.io/tx/0x737492fba9caf3eba8488978f7a6e9a0eaf76d17579b37d745dbb80c1a04a4d2"target="_blank">May-13-2024</a>
             </td>
@@ -31,9 +31,9 @@
         <tr>
             <td><a href="#ZKLink" target="_blank">ZKLink</a></td>
             <td><a href="https://etherscan.io/token/0xfc385a1df85660a7e041423db512f779070fcede#writeProxyContract" target="_blank">ZKLink Browser</a></td>
-            <td><a href="hhttps://www.binance.com/en/trade/G_USDT?ref=40896146" target="_blank">Binance</a>, <a href="https://bingx.com/en-us/spot/GUSDT" target="_blank">BingX</a>, <a href="https://www.coinex.com/exchange/g-usdt" target="_blank">CoinEx</a> and...</td>
+            <td><a href="https://www.bybit.com/en-US/trade/spot/ZKL/USDT" target="_blank">Bybit</a>, <a href="https://bingx.com/en-us/spot/ZKLUSDT" target="_blank">BingX</a>, <a href="https://www.lbank.com/en-US/trade/zkl_usdt/" target="_blank">LBank</a> and...</td>
             <td>
-            <a href="https://etherscan.io/tx/0x737492fba9caf3eba8488978f7a6e9a0eaf76d17579b37d745dbb80c1a04a4d2"target="_blank">May-13-2024</a>
+            <a href="https://etherscan.io/tx/0xf19d9535cefe1c5dae66d26c28a7bcfc1cdd09512b0d684832f2c8a01e40b62f"target="_blank">Apr-12-2024</a>
             </td>
             <td></td>
         </tr>
@@ -53,4 +53,5 @@ HARRIS is a memecoin centered around Kamala Harris, the 49th vice president of t
 This method allowes owner to block addresses that were diagnoesed as robot. Also there is an access to unblock blocked addresses.
 
 # Gravty
+
 # ZKLink
