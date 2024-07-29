@@ -10,7 +10,7 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="#KAMALA HARRIS" target="_blank">KAMALA HARRIS</a></td>
+            <td><a href="#KAMALA-HARRIS" target="_blank">KAMALA HARRIS</a></td>
             <td><a href="https://etherscan.io/address/0x155788dd4b3ccd955a5b2d461c7d6504f83f71fa#writeContract" target="_blank">HARRIS Browser</a></td>
             <td><a href="https://www.lbank.com/en-US/trade/harris_usdt/" target="_blank">LBank</a>, <a href="https://www.xt.com/en/trade/harris_usdt" target="_blank">XT.COM</a></td>
             <td>
@@ -35,12 +35,12 @@
             <td>
             <a href="https://etherscan.io/tx/0xf19d9535cefe1c5dae66d26c28a7bcfc1cdd09512b0d684832f2c8a01e40b62f"target="_blank">Apr-12-2024</a>
             </td>
-            <td></td>
+            <td><a href="###Upgradeable">Upgradeable</a>, <a href="###ERC20Capped">ERC20Capped</a>, <a href="###EIP-2612(ERC20Permit)">EIP-2612(ERC20-Permit)</a></td>
         </tr>
     </tbody>
 </table>
 
-# KAMALA HARRIS
+# KAMALA-HARRIS
 
 ## About
 
@@ -55,3 +55,24 @@ This method allowes owner to block addresses that were diagnoesed as robot. Also
 # Gravty
 
 # ZKLink
+
+## About
+
+zkLink aggregates and unifies liquidity across Layer 2 rollups and Layer 1 blockchains. zkLink offers two core solutions: zkLink Nova and zkLink X, using zero-knowledge technology to unify liquidity access across connected blockchains and rollups.
+
+## Functionality Details
+
+### Upgradeable
+
+Thanks to the upgradeability of proxy contracts, we can have a bit more peace of mind about the future and potential challenges.
+However, it can cause many security and centrlization issues that can influence the auditing process.
+
+### ERC20Capped
+
+The ERC20Capped contract in OpenZeppelin is an extension of the standard ERC20 contract that sets a cap on the total supply of
+tokens that can be minted. This is useful for token projects that want to enforce a maximum limit on the number of tokens that
+can ever be created.
+
+### EIP-2612(ERC20Permit)
+
+The ERC20Permit is an extension of the ERC20 standard that adds the ability to perform approvals via signatures, as defined in the EIP-2612 proposal. This allows for gasless approvals, meaning that token holders can approve token transfers with a signature, without needing to send an on-chain transaction themselves.
