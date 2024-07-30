@@ -201,12 +201,12 @@ Finally, I suggest you first understand what you want to do For this purpose, I'
 
 ## Questions
 
-_1 Do you think you will need to upgrade your token later?_<br>
-_2 Do you want your token to be mintable? if so, do you want to set a maximum limit of supply?_<br>
-_3 Do you want your token to be burnable?_<br>
-_4 Do you want your token to be pauseable?_<br>
-_5 Do you want to have an ability to block the bad users?_<br>
-_6 Do you want to get external Fees?_<br>
-_7 Do you want to use EIP-2612 Standard?_<br>
+_1\_ Do you think you will need to upgrade your token later?_<br>
+_2\_ Do you want your token to be mintable? if so, do you want to set a maximum limit of supply?_<br>
+_3\_ Do you want your token to be burnable?_<br>
+_4\_ Do you want your token to be pauseable?_<br>
+_5\_ Do you want to have an ability to block the bad users?_<br>
+_6\_ Do you want to get external Fees?_<br>
+_7\_ Do you want to use EIP-2612 Standard?_<br>
 
 # Thank You
