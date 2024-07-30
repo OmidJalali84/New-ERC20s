@@ -145,5 +145,5 @@ The official cat Coinbase mascot.
 
 ## Special Functionalities
 
-As you can see in this token contract, there is no special option or method or functionality and it is still a high marker kap token, listed in many known exchanges. However, it is still one of the most resent launched tokens! Also the [Fear Not]("https://etherscan.io/address/0x6135177a17e02658df99a07a2841464deb5b8589#readContract") token is like this.
+As you can see in this token contract, there is no special option or method or functionality and it is still a high marker kap token, listed in many known exchanges. However, it is still one of the most resent launched tokens! Also the [Fear Not](https://etherscan.io/address/0x6135177a17e02658df99a07a2841464deb5b8589#readContract) token is like this.
 
