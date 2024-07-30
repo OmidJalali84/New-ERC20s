@@ -34,7 +34,9 @@
 # intro
 
 I've reviewed over 100 recently listed tokens recording to [LBank New Listings Page](https://support.lbank.com/hc/en-gb/sections/20838597248025-New-Listing). From all these, I divided them into four categories, Weird Tokens, Owner Oriented Tokens, Standard Tokens and Simple Tokens that we will talk about. In Each category, I discussed one of them and explained its functionalities, and also mentioned some similar ones.
+
 ## Note
+
 Please keep in mind that all the tokens don't follow this category division and they are combination of all these. But the architecture and functionality of tokens in each category are very similar to each other.
 
 # Chart
@@ -104,7 +106,7 @@ Please keep in mind that all the tokens don't follow this category division and 
 
 These tokens is more common in memecoins. They allows owner or owners of the Token to blocking users, getting transaction fees, open and close trading and etc. These contract can cause centralization issues. They're not safe and is not recommended to use them as reference.
 
-## KAMALA HARRIS 
+## KAMALA HARRIS
 
 ### About
 
@@ -114,19 +116,15 @@ HARRIS is a memecoin centered around Kamala Harris, the 49th vice president of t
 
 #### Add Bot
 
-The ```addBot``` function in this token is a way to prevent from unusual performance of bots. If a user recognizes as a bot, the owner can block the user it by calling the ```addBot``` function and they can do nothing anymore. It could be very useful, however it can cause centralization issues. Also there is a ```delBot``` function for unblocking users.
-
+The `addBot` function in this token is a way to prevent from unusual performance of bots. If a user recognizes as a bot, the owner can block the user it by calling the `addBot` function and they can do nothing anymore. It could be very useful, however it can cause centralization issues. Also there is a `delBot` function for unblocking users.
 
 #### Transaction Fees
 
-This contract has given an ability to owner, for getting extra fees per every transaction(keep in mind that these fees are calculated more complicated than what I said, but the main idea is the same). 
-
+This contract has given an ability to owner, for getting extra fees per every transaction(keep in mind that these fees are calculated more complicated than what I said, but the main idea is the same).
 
 #### Creating pool
 
-This functionality is not actually weird (compare to what we saw in previous ones). The ```openTrading``` function creates a pool pair to WETH.
-
-
+This functionality is not actually weird (compare to what we saw in previous ones). The `openTrading` function creates a pool pair to WETH.
 
 # Owner Oriented Tokens
 
@@ -197,21 +195,18 @@ The official cat Coinbase mascot.
 
 As you can see in this token contract, there is no special option or method or functionality and it is still a high marker kap token, listed in many known exchanges. However, it is still one of the most resent launched tokens!
 
-
-
 # Conclusion
 
 Finally, I suggest you to first understand what you want to do, for this purpose, I've prepared a list of questions. Please read and answer it carefully, then give me the answers.
 
 ## Questions
 
-*1_ Do you think you will need to upgrade your token later?*
-*2_ Do you want your token to be mintable? if so, do you want to set a maximum limit of supply?*
-*3_ Do you want your token to be burnable?*
-*4_Do you want your token to be pauseable?*
-*5_ Do you want to have an ability to block the bad users?*
-*6_ Do you want to get external Fees?*
-*7_ Do you want to use EIP-2612 Standard?*
-
+_1\_ Do you think you will need to upgrade your token later?_<br>
+_2\_ Do you want your token to be mintable? if so, do you want to set a maximum limit of supply?_<br>
+_3\_ Do you want your token to be burnable?_<br>
+_4_Do you want your token to be pauseable?_<br>
+_5\_ Do you want to have an ability to block the bad users?_<br>
+_6\_ Do you want to get external Fees?_<br>
+_7\_ Do you want to use EIP-2612 Standard?_<br>
 
 # Thank You
