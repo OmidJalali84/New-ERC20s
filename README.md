@@ -33,11 +33,11 @@
 
 # intro
 
-I've searched over 100 recently listed tokens recording to [LBank New Listings Page](https://support.lbank.com/hc/en-gb/sections/20838597248025-New-Listing). From all these, I divided them into four categories, Weird Tokens, Owner Oriented Tokens, Standard Tokens and Simple Tokens that we will talk about. In Each category, I discussed one of them and explained its functionalities, and also mentioned some similar ones.
+I've searched over 100 recently listed tokens according to [LBank New Listings Page](https://support.lbank.com/hc/en-gb/sections/20838597248025-New-Listing). From all these, I divided them into four categories, Weird Tokens, Owner Oriented Tokens, Standard Tokens and Simple Tokens that we will talk about. In each category, I discussed one token and explained its functionalities, and also mentioned some similar ones.
 
 ## Note
 
-Please keep in mind that this is just a simple example all the tokens don't follow this category division and they are combination of all these. But the architecture and functionality of prepared tokens in each category are very similar to each other. so I divided them into a uniq category.
+Please keep in mind that this is just a simple example; not all tokens follow this category division and many are a combination of all these.
 
 # Table
 
@@ -63,7 +63,7 @@ Please keep in mind that this is just a simple example all the tokens don't foll
             <a href="https://etherscan.io/tx/0x182111e9f8808babb49dd5fa6fe47a5bdb695ea94a17a665e400b61114db3bae"target="_blank">Jul-02-2024</a>
             </td>
             <td>
-            <a href="#bot-blocking">block bots</a>, <a href="#add-botblocking-users">add bot(blocking users)</a>, <a href="#transaction-fees">transaction fees</a>, <a href="#creating-pool">creating pool</a>
+           <a href="#add-botblocking-users">add bot(blocking users)</a>, <a href="#transaction-fees">transaction fees</a>, <a href="#creating-pool">creating pool</a>
             </td>
             <td></td>
         </tr>
@@ -104,7 +104,7 @@ Please keep in mind that this is just a simple example all the tokens don't foll
 
 # Weird Tokens
 
-These tokens is more common in memecoins. They allows owner or owners of the Token to blocking users, getting transaction fees, open and close trading and etc. These contract can cause centralization issues. They're not safe and is not recommended to use them as reference.
+These tokens is more common in memecoins. They allows owner or owners of the Token to blocking users, getting transaction fees, open and close trading and etc. These contracts can cause centralization issues. They're not safe and it is not recommended to use them as a reference.
 
 ## KAMALA HARRIS
 
@@ -116,7 +116,7 @@ HARRIS is a memecoin centered around Kamala Harris, the 49th vice president of t
 
 #### Add Bot(Blocking Users)
 
-The `addBot` function in this token is a way to prevent from unusual performance of bots. If a user recognizes as a bot, the owner can block the user it by calling the `addBot` function and they can do nothing anymore. It could be very useful, however it can cause centralization issues. Also there is a `delBot` function for unblocking users.
+The `addBot` function in this token is a way to prevent from unusual performance of bots. If a user is recognized as a bot, the owner can block the user by calling the `addBot` function, rendering them unable to perform any actions.. It could be very useful, however it can cause centralization issues. Also there is a `delBot` function for unblocking users.
 
 #### Transaction Fees
 
@@ -128,7 +128,7 @@ This functionality is not actually weird (compare to what we saw in previous one
 
 # Owner Oriented Tokens
 
-These tokens gives the owner some abilities, but not self-interested like previous category. These methods make owner able to manage the token easier.
+These tokens gives the owner some abilities, but not self-interested like Weird Token category. These methods make owner able to manage the token easier.
 
 ## Gravity
 
@@ -148,7 +148,7 @@ The ERC20Burnable contract in OpenZeppelin is an extension of the ERC20 standard
 
 #### Name Changing
 
-This token, has a special function named `setName` that allows owner to change the token name.
+This token, has a special function named `setName` that allows the owner to change the token name.
 
 #### Giving access to users for minting
 
@@ -156,7 +156,7 @@ In general, minting process must be controlled by owner or owners of the contrac
 
 # Standard Tokens
 
-These Tokens use standards for developing. Although they use useful options, they are completely safe. It is recommended to use this functionalities and use them as reference.
+These tokens use standard libraries for developing. Although they use useful options, they are completely safe. It is recommended to use these tokens as a reference.
 
 ## ZKLink
 
@@ -193,20 +193,20 @@ The official cat Coinbase mascot.
 
 ### Special Functionalities
 
-As you can see in this token contract, there is no special option or method or functionality and it is still a high marker kap token, listed in many known exchanges. However, it is still one of the most resent launched tokens!
+As you can see in this token contract, there is no special option, method, or functionality, yet it is still a high market cap token listed on many well-known exchanges.. However, it is still one of the most resent launched tokens!
 
 # Conclusion
 
-Finally, I suggest you to first understand what you want to do, for this purpose, I've prepared a list of questions. Please read and answer it carefully, then give me the answers.
+Finally, I suggest you first understand what you want to do For this purpose, I've prepared a list of questions. Please read and answer them carefully, then give me the answers.
 
 ## Questions
 
-_1\_ Do you think you will need to upgrade your token later?_<br>
-_2\_ Do you want your token to be mintable? if so, do you want to set a maximum limit of supply?_<br>
-_3\_ Do you want your token to be burnable?_<br>
-_4_Do you want your token to be pauseable?_<br>
-_5\_ Do you want to have an ability to block the bad users?_<br>
-_6\_ Do you want to get external Fees?_<br>
-_7\_ Do you want to use EIP-2612 Standard?_<br>
+_1 Do you think you will need to upgrade your token later?_<br>
+_2 Do you want your token to be mintable? if so, do you want to set a maximum limit of supply?_<br>
+_3 Do you want your token to be burnable?_<br>
+_4 Do you want your token to be pauseable?_<br>
+_5 Do you want to have an ability to block the bad users?_<br>
+_6 Do you want to get external Fees?_<br>
+_7 Do you want to use EIP-2612 Standard?_<br>
 
 # Thank You
