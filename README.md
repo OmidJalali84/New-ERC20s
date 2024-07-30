@@ -65,7 +65,7 @@ Please keep in mind that this is just a simple example; not all tokens follow th
             <td>
            <a href="#add-botblocking-users">add bot(blocking users)</a>, <a href="#transaction-fees">transaction fees</a>, <a href="#creating-pool">creating pool</a>
             </td>
-            <td></td>
+            <td><a href="https://etherscan.io/token/0xED40aB79a3225902435C26233ed84Fb74bd8FFB8">Gram Slam</a> <a href="https://etherscan.io/token/0x45804880de22913dafe09f4980848ece6ecbaf78">Paxos Gold</a></td>
         </tr>
          <tr>
          <td>2_ <a href="#owner-oriented-tokens">Owner Oriented Tokens</a></td>
@@ -76,7 +76,7 @@ Please keep in mind that this is just a simple example; not all tokens follow th
             <a href="https://etherscan.io/tx/0x737492fba9caf3eba8488978f7a6e9a0eaf76d17579b37d745dbb80c1a04a4d2"target="_blank">May-13-2024</a>
             </td>
             <td><a href="#pauseable">pauseable</a>, <a href="#burnable">burnable</a>, <a href="#name-changing">name changing</a>, <a href="#giving-access-to-users-for-minting">giving access to users for minting</a></td>
-            <td></td>
+            <td><a href="https://polygonscan.com/token/0x3af2dd7b91d8faceccc26d21a065267817213d37">Ribus</a>, <a href="https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48">USDC</a></td>
         <tr>
         <td>3_ <a href="#standard-tokens">Standard Tokens</td>
             <td><a href="#ZKLink" target="_blank">ZKLink</a></td>
@@ -86,7 +86,7 @@ Please keep in mind that this is just a simple example; not all tokens follow th
             <a href="https://etherscan.io/tx/0xf19d9535cefe1c5dae66d26c28a7bcfc1cdd09512b0d684832f2c8a01e40b62f"target="_blank">Apr-12-2024</a>
             </td>
             <td><a href="#Upgradeable">upgradeable</a>, <a href="#ERC20Capped">ERC20Capped</a>, <a href="#EIP-2612ERC20Permit">EIP-2612(ERC20-Permit)</a></td>
-            <td></td>
+            <td><a href="https://etherscan.io/token/0xbe0Ed4138121EcFC5c0E56B40517da27E6c5226B#writeContract">Aethir</a>, <a href="https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984#writeContract">UNI</a></td>
         </tr>
         <tr>
         <td>4_ <a href="#simple-tokens">Simple Tokens</a></td>
@@ -104,7 +104,7 @@ Please keep in mind that this is just a simple example; not all tokens follow th
 
 # Weird Tokens
 
-These tokens is more common in memecoins. They allows owner or owners of the Token to blocking users, getting transaction fees, open and close trading and etc. These contracts can cause centralization issues. They're not safe and it is not recommended to use them as a reference.
+These tokens is more common in memecoins. They allows owner or owners of the Token to blocking users, getting transaction fees, open and close trading and etc. These contracts can cause centralization issues. They're not safe and it is not recommended to use them as a reference. For more information about weird tokens click [here](https://github.com/d-xo/weird-erc20)
 
 ## KAMALA HARRIS
 
@@ -116,7 +116,7 @@ HARRIS is a memecoin centered around Kamala Harris, the 49th vice president of t
 
 #### Add Bot(Blocking Users)
 
-The `addBot` function in this token is a way to prevent from unusual performance of bots. If a user is recognized as a bot, the owner can block the user by calling the `addBot` function, rendering them unable to perform any actions.. It could be very useful, however it can cause centralization issues. Also there is a `delBot` function for unblocking users.
+The `addBot` function in this token is a way to prevent from unusual performance of bots. If a user is recognized as a bot, the owner can block the user by calling the `addBot` function, rendering them unable to perform any actions.. It could be very useful, however it can cause centralization issues. Also there is a `delBot` function for unblocking users. It is like `blacklist`, which is very common(like USDT).
 
 #### Transaction Fees
 
