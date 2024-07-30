@@ -1,22 +1,25 @@
 - [Chart](#chart)
 - [KAMALA HARRIS](#kamala-harris)
   - [About](#about)
-  - [Functionality Detail](#functionality-detail)
+  - [Special Functionalities](#special-functionalities)
     - [Bot Blocking](#bot-blocking)
     - [weird Transaction Fees And Owner Access](#weird-transaction-fees-and-owner-access)
 - [Gravity](#gravity)
   - [About](#about-1)
-  - [Functionality Detail](#functionality-detail-1)
+  - [Special Functionalities](#special-functionalities-1)
     - [Pauseable](#pauseable)
     - [Burnable](#burnable)
     - [Name Changing](#name-changing)
     - [Giving access to users for minting(by owner)](#giving-access-to-users-for-mintingby-owner)
 - [ZKLink](#zklink)
   - [About](#about-2)
-  - [Functionality Details](#functionality-details)
+  - [Special Functionalities](#special-functionalities-2)
     - [Upgradeable](#upgradeable)
     - [ERC20Capped](#erc20capped)
     - [EIP-2612(ERC20Permit)](#eip-2612erc20permit)
+- [Mr Miggles](#mr-miggles)
+  - [About](#about-3)
+  - [Special Functionalities](#special-functionalities-3)
 
 # Chart
 
@@ -59,6 +62,15 @@
             </td>
             <td><a href="#Upgradeable">upgradeable</a>, <a href="#ERC20Capped">ERC20Capped</a>, <a href="#EIP-2612ERC20Permit">EIP-2612(ERC20-Permit)</a></td>
         </tr>
+        <tr>
+            <td><a href="#ZKLink" target="_blank">Mr Miggles</a></td>
+            <td><a href="https://basescan.org/token/0xb1a03eda10342529bbf8eb700a06c60441fef25d" target="_blank">Mr Miggles Browser</a></td>
+            <td><a href="https://www.coinex.com/exchange/miggles-usdt" target="_blank">CoinEx</a>, <a href="https://bingx.com/en-us/spot/MIGGLESUSDT" target="_blank">BingX</a>, <a href="https://www.lbank.com/en-US/trade/miggles_usdt/" target="_blank">LBank</a> and...</td>
+            <td>
+            <a href="https://basescan.org/tx/0xafe90827147e28e21ce747dd112c962d5fcf33823accfde7e99fa14af51f6d90"target="_blank">Jul-16-2024</a>
+            </td>
+            <td><a href="#special-functionalities-3">Nothing!!!</a></td>
+        </tr>
     </tbody>
 </table>
 
@@ -68,7 +80,7 @@
 
 HARRIS is a memecoin centered around Kamala Harris, the 49th vice president of the United States and presumptive nominee of the Democratic Party in the 2024 presidential election.
 
-## Functionality Detail
+## Special Functionalities
 
 ### Bot Blocking
 
@@ -84,7 +96,7 @@ Some tokens contracts give some unusual access to the owner of token, like block
 
 G is the native token on Gravity and the utility token for both Gravity and the Galxe ecosystem. G powers transactions as the gas token and secures the network through staking. As the primary utility token across both ecosystems, G drives governance decisions, incentivizes growth, and facilitates payments.
 
-## Functionality Detail
+## Special Functionalities
 
 ### Pauseable
 
@@ -108,7 +120,7 @@ In general, minting process must be controlled by owner or owners of the contrac
 
 zkLink aggregates and unifies liquidity across Layer 2 rollups and Layer 1 blockchains. zkLink offers two core solutions: zkLink Nova and zkLink X, using zero-knowledge technology to unify liquidity access across connected blockchains and rollups.
 
-## Functionality Details
+## Special Functionalities
 
 ### Upgradeable
 
@@ -124,3 +136,14 @@ can ever be created.
 ### EIP-2612(ERC20Permit)
 
 The ERC20Permit is an extension of the ERC20 standard that adds the ability to perform approvals via signatures, as defined in the EIP-2612 proposal. This allows for gasless approvals, meaning that token holders can approve token transfers with a signature, without needing to send an on-chain transaction themselves.
+
+# Mr Miggles
+
+## About
+
+The official cat Coinbase mascot.
+
+## Special Functionalities
+
+As you can see in this token contract, there is no special option or method or functionality and it is still a high marker kap token, listed in many known exchanges. However, it is still one of the most resent launched tokens! Also the [Fear Not]("https://etherscan.io/address/0x6135177a17e02658df99a07a2841464deb5b8589#readContract") token is like this.
+
