@@ -1,6 +1,6 @@
 - [intro](#intro)
   - [Note](#note)
-- [Chart](#chart)
+- [Table](#table)
 - [Weird Tokens](#weird-tokens)
   - [KAMALA HARRIS](#kamala-harris)
     - [About](#about)
@@ -33,13 +33,13 @@
 
 # intro
 
-I've reviewed over 100 recently listed tokens recording to [LBank New Listings Page](https://support.lbank.com/hc/en-gb/sections/20838597248025-New-Listing). From all these, I divided them into four categories, Weird Tokens, Owner Oriented Tokens, Standard Tokens and Simple Tokens that we will talk about. In Each category, I discussed one of them and explained its functionalities, and also mentioned some similar ones.
+I've searched over 100 recently listed tokens recording to [LBank New Listings Page](https://support.lbank.com/hc/en-gb/sections/20838597248025-New-Listing). From all these, I divided them into four categories, Weird Tokens, Owner Oriented Tokens, Standard Tokens and Simple Tokens that we will talk about. In Each category, I discussed one of them and explained its functionalities, and also mentioned some similar ones.
 
 ## Note
 
-Please keep in mind that all the tokens don't follow this category division and they are combination of all these. But the architecture and functionality of tokens in each category are very similar to each other.
+Please keep in mind that this is just a simple example all the tokens don't follow this category division and they are combination of all these. But the architecture and functionality of prepared tokens in each category are very similar to each other. so I divided them into a uniq category.
 
-# Chart
+# Table
 
 <table border="1" style="border-collapse: collapse;">
     <thead>
