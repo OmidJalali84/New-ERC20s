@@ -5,9 +5,9 @@
   - [KAMALA HARRIS](#kamala-harris)
     - [About](#about)
     - [Special Functionalities](#special-functionalities)
-      - [Add Bot](#add-bot)
+      - [Add Bot(Blocking Users)](#add-botblocking-users)
       - [Transaction Fees](#transaction-fees)
-      - [Creating pool](#creating-pool)
+      - [Creating Pool](#creating-pool)
 - [Owner Oriented Tokens](#owner-oriented-tokens)
   - [Gravity](#gravity)
     - [About](#about-1)
@@ -55,7 +55,7 @@ Please keep in mind that all the tokens don't follow this category division and 
     </thead>
     <tbody>
         <tr>
-            <td>1_ Weird Tokens</td>
+            <td>1_ <a href="#weird-tokens">Weird Tokens</a></td>
             <td><a href="#KAMALA-HARRIS" target="_blank">KAMALA HARRIS</a></td>
             <td><a href="https://etherscan.io/address/0x155788dd4b3ccd955a5b2d461c7d6504f83f71fa#writeContract" target="_blank">HARRIS Browser</a></td>
             <td><a href="https://www.lbank.com/en-US/trade/harris_usdt/" target="_blank">LBank</a>, <a href="https://www.xt.com/en/trade/harris_usdt" target="_blank">XT.COM</a></td>
@@ -63,22 +63,22 @@ Please keep in mind that all the tokens don't follow this category division and 
             <a href="https://etherscan.io/tx/0x182111e9f8808babb49dd5fa6fe47a5bdb695ea94a17a665e400b61114db3bae"target="_blank">Jul-02-2024</a>
             </td>
             <td>
-            <a href="#bot-blocking">block bots</a>, <a href="#weird-transaction-fees-and-owner-access">weird transaction fees and owner access</a>
+            <a href="#bot-blocking">block bots</a>, <a href="#add-botblocking-users">add bot(blocking users)</a>, <a href="#transaction-fees">transaction fees</a>, <a href="#creating-pool">creating pool</a>
             </td>
             <td></td>
         </tr>
          <tr>
-         <td>2_ Owner Oriented Tokens</td>
+         <td>2_ <a href="#owner-oriented-tokens">Owner Oriented Tokens</a></td>
             <td><a href="#Gravity" target="_blank">Gravity</a></td>
             <td><a href="https://etherscan.io/token/0x9C7BEBa8F6eF6643aBd725e45a4E8387eF260649" target="_blank">Gravity Browser</a></td>
             <td><a href="https://www.binance.com/en/trade/G_USDT?ref=40896146" target="_blank">Binance</a>, <a href="https://bingx.com/en-us/spot/GUSDT" target="_blank">BingX</a>, <a href="https://www.coinex.com/exchange/g-usdt" target="_blank">CoinEx</a> and...</td>
             <td>
             <a href="https://etherscan.io/tx/0x737492fba9caf3eba8488978f7a6e9a0eaf76d17579b37d745dbb80c1a04a4d2"target="_blank">May-13-2024</a>
             </td>
-            <td><a href="#pauseable">pauseable</a>, <a href="#burnable">burnable</a>, <a href="#name-changing">name changing</a>, <a href="#giving-access-to-users-for-mintingby-owner">giving access to users for minting(by owner)</a></td>
+            <td><a href="#pauseable">pauseable</a>, <a href="#burnable">burnable</a>, <a href="#name-changing">name changing</a>, <a href="#giving-access-to-users-for-minting">giving access to users for minting</a></td>
             <td></td>
         <tr>
-        <td>3_ Standard Tokens</td>
+        <td>3_ <a href="#standard-tokens">Standard Tokens</td>
             <td><a href="#ZKLink" target="_blank">ZKLink</a></td>
             <td><a href="https://etherscan.io/token/0xfc385a1df85660a7e041423db512f779070fcede#writeProxyContract" target="_blank">ZKLink Browser</a></td>
             <td><a href="https://www.bybit.com/en-US/trade/spot/ZKL/USDT" target="_blank">Bybit</a>, <a href="https://bingx.com/en-us/spot/ZKLUSDT" target="_blank">BingX</a>, <a href="https://www.lbank.com/en-US/trade/zkl_usdt/" target="_blank">LBank</a> and...</td>
@@ -89,7 +89,7 @@ Please keep in mind that all the tokens don't follow this category division and 
             <td></td>
         </tr>
         <tr>
-        <td>4_ Simple Tokens</td>
+        <td>4_ <a href="#simple-tokens">Simple Tokens</a></td>
             <td><a href="#mr-miggles" target="_blank">Mr Miggles</a></td>
             <td><a href="https://basescan.org/token/0xb1a03eda10342529bbf8eb700a06c60441fef25d" target="_blank">Mr Miggles Browser</a></td>
             <td><a href="https://www.coinex.com/exchange/miggles-usdt" target="_blank">CoinEx</a>, <a href="https://bingx.com/en-us/spot/MIGGLESUSDT" target="_blank">BingX</a>, <a href="https://www.lbank.com/en-US/trade/miggles_usdt/" target="_blank">LBank</a> and...</td>
@@ -114,7 +114,7 @@ HARRIS is a memecoin centered around Kamala Harris, the 49th vice president of t
 
 ### Special Functionalities
 
-#### Add Bot
+#### Add Bot(Blocking Users)
 
 The `addBot` function in this token is a way to prevent from unusual performance of bots. If a user recognizes as a bot, the owner can block the user it by calling the `addBot` function and they can do nothing anymore. It could be very useful, however it can cause centralization issues. Also there is a `delBot` function for unblocking users.
 
@@ -122,7 +122,7 @@ The `addBot` function in this token is a way to prevent from unusual performance
 
 This contract has given an ability to owner, for getting extra fees per every transaction(keep in mind that these fees are calculated more complicated than what I said, but the main idea is the same).
 
-#### Creating pool
+#### Creating Pool
 
 This functionality is not actually weird (compare to what we saw in previous ones). The `openTrading` function creates a pool pair to WETH.
 
