@@ -65,7 +65,7 @@ Please keep in mind that this is just a simple example; not all tokens follow th
             <td>
            <a href="#add-botblocking-users">add bot(blocking users)</a>, <a href="#transaction-fees">transaction fees</a>, <a href="#creating-pool">creating pool</a>
             </td>
-            <td><a href="https://etherscan.io/token/0xED40aB79a3225902435C26233ed84Fb74bd8FFB8">Gram Slam</a> <a href="https://etherscan.io/token/0x45804880de22913dafe09f4980848ece6ecbaf78">Paxos Gold</a></td>
+            <td><a href="https://etherscan.io/token/0xED40aB79a3225902435C26233ed84Fb74bd8FFB8">Gram Slam</a>, <a href="https://etherscan.io/token/0x45804880de22913dafe09f4980848ece6ecbaf78">Paxos Gold</a></td>
         </tr>
          <tr>
          <td>2_ <a href="#owner-oriented-tokens">Owner Oriented Tokens</a></td>
@@ -97,7 +97,7 @@ Please keep in mind that this is just a simple example; not all tokens follow th
             <a href="https://basescan.org/tx/0xafe90827147e28e21ce747dd112c962d5fcf33823accfde7e99fa14af51f6d90"target="_blank">Jul-16-2024</a>
             </td>
             <td><a href="#special-functionalities-3">Nothing!!!</a></td>
-            <td><a href="https://etherscan.io/address/0x6135177a17e02658df99a07a2841464deb5b8589#readContract">Fear Not</a>, <a href="https://cronoscan.com/address/0x3b41B27E74Dd366CE27cB389dc7877D4e1516d4d">Mistery</a>, <a href="https://etherscan.io/token/0x03a9D7c8CAf836De35666c5f7e317306B54fDd4E#writeContract">JC Coin</a></td>
+            <td><a href="https://etherscan.io/address/0x6135177a17e02658df99a07a2841464deb5b8589#readContract">Fear Not</a>, <a href="https://cronoscan.com/address/0x3b41B27E74Dd366CE27cB389dc7877D4e1516d4d">Mistery</a>, <a href="https://etherscan.io/token/0x03a9D7c8CAf836De35666c5f7e317306B54fDd4E#writeContract">JC Coin</a> and many more...</td>
         </tr>
     </tbody>
 </table>
@@ -183,7 +183,7 @@ The ERC20Permit is an extension of the ERC20 standard that adds the ability to p
 
 # Simple Tokens
 
-Totally simple Tokens! They use only ERC20 functions, maybe a bit additional options but not very effective.
+Totally simple Tokens! They use only ERC20 functions, maybe a bit additional options but not very effective.(_80% of tokens that I reviewed was in this category_)
 
 ## Mr Miggles
 
